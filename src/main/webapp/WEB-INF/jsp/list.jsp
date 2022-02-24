@@ -9,7 +9,7 @@
     <title>List</title>
 </head>
 <body>
-    <h1>List</h1>
+    <h1>리스트</h1>
     <div>
         <a href="/write">글쓰기</a>
     </div>
